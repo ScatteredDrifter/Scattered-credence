@@ -34,10 +34,10 @@ Old revision without a working badge design:
 ![picture of split from side](images/Built/built-top.jpg)
 
 ### Renders ( Fusion 360):
-![exploded view  of case 1](images/
-exploded-view/case-exploded-side.png)
+
+ ![exploded view  of case 1](images/exploded-view/case-exploded-side.png)
 
  ![exploded view of case 2](images/exploded-view/case-exploded.png)
 
-![exploded view of case 2](images/closed-view/case-closed-close.png)
+ ![exploded view of case 2](images/closed-view/case-closed-close.png)
 **||| - Glory To Mankind**
