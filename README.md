@@ -1,4 +1,4 @@
-#Scattered-credence
+# Scattered-credence
 
 <div align="right"> Created and designed by: Fabian.S || ScatteredDrifter 
 </div>
