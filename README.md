@@ -14,7 +14,7 @@ A hardwired 23 key split-keyboard with a bottom-mount case and badge support
 - holes for 3.6mm Trs jacks
 
 
-##Planned Features: 
+## Planned Features: 
  - **#** print new revision of case for updated showcase 
  - **#** QMK Support - works with Pinky/rev3 already 
  - add support for unified daughterboards > USB-C 
@@ -22,7 +22,7 @@ A hardwired 23 key split-keyboard with a bottom-mount case and badge support
  - add options for a pcb 
  - provide plate files > dxf,svg 
  
-##Images:
+## Images:
 <b>first complete build with 46x Gateron Yellows (205G), PBT Cherries, 2x Pro Micros
 
 Old revision without a working badge design: 
@@ -33,7 +33,7 @@ Old revision without a working badge design:
 **Top-view**
 ![picture of split from side](images/Built/built-top.jpg)
 
-###Renders ( Fusion 360):
+### Renders ( Fusion 360):
 ![exploded view  of case 1](images/
 exploded-view/case-exploded-side.png)
 
