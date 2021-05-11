@@ -27,16 +27,16 @@ A hardwired 23 key split-keyboard with a bottom-mount case and badge support
 Old revision without a working badge design: 
 </b>
 **Side-view:**
-[picture of split from side](images/Built/built-side.jpg)
+![picture of split from side](images/Built/built-side.jpg)
 
 **Top-view**
-[picture of split from side](images/Built/built-top.jpg)
+![picture of split from side](images/Built/built-top.jpg)
 
 ###Renders ( Fusion 360):
-[exploded view  of case 1](images/
+![exploded view  of case 1](images/
 exploded-view/case-exploded-side.png)
 
-[exploded view of case 2](images/exploded-view/case-exploded.png)
+![exploded view of case 2](images/exploded-view/case-exploded.png)
 
-[exploded view of case 2](images/closed-view/case-closed-close.png)
+![exploded view of case 2](images/closed-view/case-closed-close.png)
 **||| - Glory To Mankind**
