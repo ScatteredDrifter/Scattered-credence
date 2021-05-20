@@ -21,6 +21,13 @@
 * provide plate files > dxf,svg
 
 ## Images:
+<b>new iteration with working badge:</b>
+
+![picture of new iteration](images/Built/built-new-close.jpg)
+
+![picture of new iteration](images/Built/built-new-top.jpg)
+
+--- 
 
 <b>first complete build with 46x Gateron Yellows (205G), PBT Cherries, 2x Pro Micros
 
