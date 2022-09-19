@@ -13,13 +13,7 @@
 
 ## Planned Features:
 
-* **#** print new revision of case for updated showcase
-* **#** QMK Support - works with Pinky/rev3 already
-* add support for unified daughterboards > USB-C
-* improve mounting system
-* add options for a pcb
-* provide plate files > dxf,svg
-
+- nothing, wont update this thing anymore, its awful
 ## Images:
 <b>new iteration with working badge:</b>
 
